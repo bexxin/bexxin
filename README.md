@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bexxin
-- 👀 I’m interested in staying active outdoors with my two Shepherd X dogs.
+- 👀 I’m interested in using my 13 years of Nursing experience to help with any relevant projects/problems.
 - 🌱 I’m currently learning HTML/CSS/C#/Python, I am in my first semester of Software Engineering.
-- 💞️ I’m looking to collaborate on anything to help me learn!
+- 💞️ I’m looking to collaborate on anything to help me learn or where I can use my Nursing knowledge.
 - 📫 How to reach me : Discord @Bex#1445
 
 <!---
